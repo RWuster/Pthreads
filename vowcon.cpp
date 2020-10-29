@@ -8,6 +8,7 @@ Project 2: Part B - Determine if word starts with a vowel or consonant.
 #include <vector>
 #include <string>
 #include <unistd.h>
+#include <ostream>
 #include <pthread.h>
 
 //global variable, phrase is shared by the other threads
