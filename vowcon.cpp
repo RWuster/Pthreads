@@ -1,6 +1,4 @@
 /*
-Richard Vu
-Dr. Lakhanpal
 CPSC 351 - 02
 Project 2: Part B - Determine if word starts with a vowel or consonant. 
 */

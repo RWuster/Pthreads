@@ -1,6 +1,5 @@
 /*
-Richard Vu
-Dr. Lakhanpal
+
 CPSC 351 - 02
 Project 2: Fibonacci Sequence using multithreading
 */
